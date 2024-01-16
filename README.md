@@ -1,4 +1,4 @@
-**# Personal-Loan-Modelling-with-Multivariate-Statistics**
+**Personal-Loan-Modelling-with-Multivariate-Statistics**
 
   Bu çalışma Kaggle’dan alınan Bank Personal Loan adlı veri setinin, 
 analizlere uygun şekilde düzenlenmesi ile hazırlanmıştır. Düzenlenen veri setinden 
@@ -10,7 +10,7 @@ analizlere uygun şekilde düzenlenmesi ile hazırlanmıştır. Düzenlenen veri
 Regresyon ve Kümeleme Analizi’dir.**
 
 
-**# Veri Seti Tanımı**
+**Veri Seti Tanımı**
 
 **• Yas:** Bireyin yaşı
 
